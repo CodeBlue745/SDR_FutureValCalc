@@ -1,0 +1,29 @@
+﻿@model FutureValueModel
+@{
+    ViewBag.Title = "Stephen's Future Value Calculator";
+}
+<h1>Stephen's Future Value Calculator</h1>
+<!--the asp-action is the get method / the method is what happens when the submit button is pressed.-->
+<form asp-action="Index" method="post">
+    <div asp-validation-summary="All"></div>
+    <div>
+        <label asp-for="MonthlyInvestment">Monthly Investment:</label>
+        <input asp-for="MonthlyInvestment" />
+    </div>
+    <div>
+        <label asp-for="YearlyInterestRate">Yearly Interest Rate:</label>
+        <input asp-for="YearlyInterestRate" />
+    </div>
+    <div>
+        <label asp-for="Years">Number of Years:</label>
+        <input asp-for="Years" />
+    </div>
+    <div>
+        <label>Future Value:</label>
+        <label>@ViewBag.FV.ToString("C2")</label>
+        <label>Mathematical Formula: </label>
+        <label>@ViewBag.SDR</label>
+    </div>
+    <button type="submit">Calculate</button>
+    <a asp-action="Index">Clear</a>
+</form>

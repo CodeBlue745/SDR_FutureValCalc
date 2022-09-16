@@ -1,0 +1,19 @@
+﻿body {
+    padding: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin-top: 0;
+    color: navy;
+}
+
+label {
+    display: inline-block;
+    width: 10em;
+    padding-right: 1em;
+}
+
+div {
+    margin-bottom: .5em;
+}
