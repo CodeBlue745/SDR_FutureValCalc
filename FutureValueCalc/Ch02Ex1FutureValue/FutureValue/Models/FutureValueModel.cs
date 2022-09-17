@@ -39,9 +39,9 @@ namespace FutureValue.Models
             int yr = Years;
             //Next, declare two formatted local variables.
             string mInvest = MonthlyInvestment.ToString("C2");
-            string yrIntrest = YearlyInterestRate.ToString("C2");
+            string yrU = (YearlyInterestRate).ToString("C2");
             //Last, create the formatted string.
-            string numberInputs = "Solution = (" + mInvest + "Investment per month * (1 + " + yrIntrest + "Yearly Interest Rate / 12 / 100)) * (" + yr + "yr(s) * 12)";
+            string numberInputs = "Solution = (" + mInvest + "Investment/month * (1 + " + yrU + "Yearly Interest Rate Unit / 12 / 100)) * (" + yr + "yr(s) * 12)";
             return numberInputs;//return the string.
         }
     }

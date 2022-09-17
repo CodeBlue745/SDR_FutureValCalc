@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\FutureValueCalc",
+    "\\FutureValueCalc\\Ch02Ex1FutureValue",
     "\\FutureValueCalc\\Ch02Ex1FutureValue\\FutureValue",
     "\\FutureValueCalc\\Ch02Ex1FutureValue\\FutureValue\\Models"
   ],
-  "SelectedNode": "\\FutureValueCalc\\Ch03Ex1FutureValue",
+  "SelectedNode": "\\FutureValueCalc\\Ch02Ex1FutureValue\\FutureValue\\Models\\FutureValueModel.cs",
   "PreviewInSolutionExplorer": false
 }
