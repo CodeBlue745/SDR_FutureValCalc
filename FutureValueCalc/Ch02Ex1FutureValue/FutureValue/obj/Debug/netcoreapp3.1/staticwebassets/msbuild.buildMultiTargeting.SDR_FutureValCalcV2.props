@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SDR_FutureValCalcV2.props" />
+</Project>

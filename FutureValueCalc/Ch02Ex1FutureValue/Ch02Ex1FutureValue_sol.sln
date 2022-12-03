@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SDR_FutureValCalc", "FutureValue\SDR_FutureValCalc.csproj", "{0594803F-FC7A-4BFA-A84C-DE2AAD854D5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SDR_FutureValCalcV2", "FutureValue\SDR_FutureValCalcV2.csproj", "{0594803F-FC7A-4BFA-A84C-DE2AAD854D5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F45AgGMUaApCGVONN60jKofaZIfcViB01Z+SvsvjsOpqpCpXDFyTNKh4TcN6UFMmwsle6IxDv53HZ25UOMzRNA==",
+  "dgSpecHash": "swcu/VDoDC9GxB72MtUlhWyZ/IJbDLWEX5U5kvI/S+eNB053BlqZ894Ythkg/udNnqMkdztk9g4zunOr1MuKsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\steph\\Source\\Repos\\CodeBlue745\\SDR_FutureValCalc\\FutureValueCalc\\Ch02Ex1FutureValue\\FutureValue\\SDR_FutureValCalc.csproj",
+  "projectFilePath": "C:\\Users\\steph\\Source\\Repos\\SDR_FutureValCalc\\FutureValueCalc\\Ch02Ex1FutureValue\\FutureValue\\SDR_FutureValCalcV2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\steph\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\steph\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
